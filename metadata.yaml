@@ -1,0 +1,28 @@
+_repo: The-Acadian-Exiles-a-Chronicle-of-the-Land-of-Evangeline_6502
+creator:
+  author:
+    agent_name: Doughty, Arthur G. (Arthur George), Sir
+    aliases:
+    - Doughty, A. G. (Arthur George), Sir
+    - Doughty, Arthur George, Sir
+    birthdate: 1860
+    deathdate: 1936
+    gutenberg_agent_id: '2072'
+    url: http://www.gutenberg.org/2009/agents/2072
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Doughty
+description: 'Chronicles of Canada series: Volume 09'
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6502'
+  lccn: '16021424'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nova Scotia -- History'
+- !lcsh 'Acadia'
+- !lcc 'F1001'
+title: 'The Acadian Exiles : a Chronicle of the Land of Evangeline'
+url: http://www.gutenberg.org/ebooks/6502
